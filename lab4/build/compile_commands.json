@@ -1,0 +1,8 @@
+[
+{
+  "directory": "F:/vyz/2d_3d_graphics/lab4/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IF:\\vyz\\2d_3d_graphics\\lab4\\freeglut\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\Cube3D.dir\\main.cpp.obj /FdCMakeFiles\\Cube3D.dir\\ /FS -c F:\\vyz\\2d_3d_graphics\\lab4\\main.cpp",
+  "file": "F:/vyz/2d_3d_graphics/lab4/main.cpp",
+  "output": "F:/vyz/2d_3d_graphics/lab4/build/CMakeFiles/Cube3D.dir/main.cpp.obj"
+}
+]

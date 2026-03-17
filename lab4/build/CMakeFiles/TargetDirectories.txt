@@ -1,0 +1,3 @@
+F:/vyz/2d_3d_graphics/lab4/build/CMakeFiles/Cube3D.dir
+F:/vyz/2d_3d_graphics/lab4/build/CMakeFiles/edit_cache.dir
+F:/vyz/2d_3d_graphics/lab4/build/CMakeFiles/rebuild_cache.dir
